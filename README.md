@@ -1,3 +1,6 @@
+## Presentation Link:
+[Link Text](https://docs.google.com/presentation/d/1mhL4XpBBhYXzObotYD-8V7mg0e_0Zsku/edit?usp=drive_link&ouid=105810472473991072710&rtpof=true&sd=true)
+
 ## Ant Robot Overview
 A 3D quadruped robot designed for locomotion tasks 
 Consists of a central torso with free rotational movement 
